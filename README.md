@@ -9,3 +9,6 @@
   - **14:00 - 14:45**: Collaborating on Projects with GitHub: GitHub's Features
   - **14:45 - 16:00**: Collaborating on Projects with GitHub and Git: Remotes and Pull Requests
   - **16:00 - 17:30**: Commit-Push-Pull Practice: Roman Numeral Kata
+
+
+Hello everyone!
