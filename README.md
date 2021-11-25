@@ -1,6 +1,8 @@
 
 ## Day 3: "IDEs, Version Control, Virtual Environments, and Packaging"
 
+This is the readme
+
   - **9:30 - 10:15**: JupyterLab IDE and Git: Running a "Hello World" Project on the Terminal with Installation Requirements
   - **11:30 - 12:30**: PyCharm: Running a "Hello World" Project with Installation Requirements: Virtual Environments and Multi-Commits
 ------------
@@ -12,3 +14,4 @@
 
 
 Hello everyone!
+afadfafd
